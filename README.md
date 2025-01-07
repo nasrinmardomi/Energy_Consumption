@@ -1,5 +1,12 @@
 # Welcome to your Expo app 👋
 
+# Hiring Project
+
+This repository is created as part of a **Hiring Project**.
+
+This project aims to demonstrate skills and capabilities in software development and project management.
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
