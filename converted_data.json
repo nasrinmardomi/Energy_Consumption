@@ -1,0 +1,4713 @@
+[
+  {
+    "Timestamp": "2024-12-19 11:45:11.796134",
+    "Fridge (kWh)": 0.1516113263133546,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 12:00:11.796134",
+    "Fridge (kWh)": 0.1338015147483046,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 12:15:11.796134",
+    "Fridge (kWh)": 0.1310829558852548,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 12:30:11.796134",
+    "Fridge (kWh)": 0.1516499586540005,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.076509640048846
+  },
+  {
+    "Timestamp": "2024-12-19 12:45:11.796134",
+    "Fridge (kWh)": 0.1428292235571665,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 13:00:11.796134",
+    "Fridge (kWh)": 0.1484773357046532,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 13:15:11.796134",
+    "Fridge (kWh)": 0.1592211941442202,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 13:30:11.796134",
+    "Fridge (kWh)": 0.1509636458495345,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 13:45:11.796134",
+    "Fridge (kWh)": 0.1543262735926326,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 14:00:11.796134",
+    "Fridge (kWh)": 0.1770849834870109,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 14:15:11.796134",
+    "Fridge (kWh)": 0.160373326148011,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.571222360345764
+  },
+  {
+    "Timestamp": "2024-12-19 14:30:11.796134",
+    "Fridge (kWh)": 0.1384863819302813,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 14:45:11.796134",
+    "Fridge (kWh)": 0.1584174677867628,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 15:00:11.796134",
+    "Fridge (kWh)": 0.1569476232614123,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 15:15:11.796134",
+    "Fridge (kWh)": 0.1447165136926509,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 15:30:11.796134",
+    "Fridge (kWh)": 0.1480466414475885,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.522620403597188
+  },
+  {
+    "Timestamp": "2024-12-19 15:45:11.796134",
+    "Fridge (kWh)": 0.1537847743746864,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 16:00:11.796134",
+    "Fridge (kWh)": 0.1731750319962103,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 16:15:11.796134",
+    "Fridge (kWh)": 0.1039506302716996,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 16:30:11.796134",
+    "Fridge (kWh)": 0.1595414466718583,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 16:45:11.796134",
+    "Fridge (kWh)": 0.1328858152091777,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 17:00:11.796134",
+    "Fridge (kWh)": 0.1490077561181308,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 17:15:11.796134",
+    "Fridge (kWh)": 0.1558921282530119,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 17:30:11.796134",
+    "Fridge (kWh)": 0.1638938885619516,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 17:45:11.796134",
+    "Fridge (kWh)": 0.1638898286482572,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 18:00:11.796134",
+    "Fridge (kWh)": 0.1351935975801979,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 18:15:11.796134",
+    "Fridge (kWh)": 0.1667885269420054,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 18:30:11.796134",
+    "Fridge (kWh)": 0.1423122472246401,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.468276744433332
+  },
+  {
+    "Timestamp": "2024-12-19 18:45:11.796134",
+    "Fridge (kWh)": 0.163310207517247,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 19:00:11.796134",
+    "Fridge (kWh)": 0.1639226455914252,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0666589653415263,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 19:15:11.796134",
+    "Fridge (kWh)": 0.1438450477276256,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0855732261766034,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 19:30:11.796134",
+    "Fridge (kWh)": 0.1737713233951975,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0828802582522705,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 19:45:11.796134",
+    "Fridge (kWh)": 0.1162793621761597,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0259361656572636,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 20:00:11.796134",
+    "Fridge (kWh)": 0.1667108959259256,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.044115144747038,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 20:15:11.796134",
+    "Fridge (kWh)": 0.1729190413111619,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0280289612951823,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 20:30:11.796134",
+    "Fridge (kWh)": 0.1715755048065881,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0409062634153928,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 20:45:11.796134",
+    "Fridge (kWh)": 0.1598033154159538,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0347891650796759,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 21:00:11.796134",
+    "Fridge (kWh)": 0.1095095658995091,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0488211215364888,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 21:15:11.796134",
+    "Fridge (kWh)": 0.1939050238248202,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0887890150377776,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 21:30:11.796134",
+    "Fridge (kWh)": 0.1474888076936676,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0839986107590514,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 21:45:11.796134",
+    "Fridge (kWh)": 0.14225781225193,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0989955694828569,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 22:00:11.796134",
+    "Fridge (kWh)": 0.1217319903527718,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0884045396887073,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 22:15:11.796134",
+    "Fridge (kWh)": 0.1387468008797805,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0900536802305051,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 22:30:11.796134",
+    "Fridge (kWh)": 0.1092793311316709,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0385671763725481,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 22:45:11.796134",
+    "Fridge (kWh)": 0.1080382931345888,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0770199643156657,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 23:00:11.796134",
+    "Fridge (kWh)": 0.1574217617726015,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0903771225705859,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 23:15:11.796134",
+    "Fridge (kWh)": 0.1478611123061826,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0864653355711347,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 23:30:11.796134",
+    "Fridge (kWh)": 0.1452561922178619,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0467805105876218,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-19 23:45:11.796134",
+    "Fridge (kWh)": 0.1239613209998529,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0761469338463196,
+    "EV Charger (kWh)": 9.750680958373325
+  },
+  {
+    "Timestamp": "2024-12-20 00:00:11.796134",
+    "Fridge (kWh)": 0.1574440754716812,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0738009245882195,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 00:15:11.796134",
+    "Fridge (kWh)": 0.1516359395420798,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.075312175922579,
+    "EV Charger (kWh)": 9.229010351926156
+  },
+  {
+    "Timestamp": "2024-12-20 00:30:11.796134",
+    "Fridge (kWh)": 0.1754365188401747,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0649997746312959,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 00:45:11.796134",
+    "Fridge (kWh)": 0.1631387135447209,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0808723805982047,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 01:00:11.796134",
+    "Fridge (kWh)": 0.1322231517264562,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.065629588356784,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 01:15:11.796134",
+    "Fridge (kWh)": 0.132880732139305,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0457459988371491,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 01:30:11.796134",
+    "Fridge (kWh)": 0.1624126496610674,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0257598785270059,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 01:45:11.796134",
+    "Fridge (kWh)": 0.1330537265522578,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0396046258459377,
+    "EV Charger (kWh)": 7.299761088496096
+  },
+  {
+    "Timestamp": "2024-12-20 02:00:11.796134",
+    "Fridge (kWh)": 0.138031460512636,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0617587823565352,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 02:15:11.796134",
+    "Fridge (kWh)": 0.1602958657019052,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0459881467129023,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 02:30:11.796134",
+    "Fridge (kWh)": 0.1685112154337534,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0508925718841412,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 02:45:11.796134",
+    "Fridge (kWh)": 0.1067443029544435,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0522439770588569,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 03:00:11.796134",
+    "Fridge (kWh)": 0.1211799395704381,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0723472831014402,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 03:15:11.796134",
+    "Fridge (kWh)": 0.1332006109749891,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0300656600973385,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 03:30:11.796134",
+    "Fridge (kWh)": 0.1640388345364765,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0490222654992769,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 03:45:11.796134",
+    "Fridge (kWh)": 0.1438934500022476,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0609341284112939,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 04:00:11.796134",
+    "Fridge (kWh)": 0.1349516605562891,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0602038116108829,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 04:15:11.796134",
+    "Fridge (kWh)": 0.1413083040269979,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0844507356472913,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 04:30:11.796134",
+    "Fridge (kWh)": 0.1564852762774979,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0987851215640922,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 04:45:11.796134",
+    "Fridge (kWh)": 0.1758815802438466,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0541634101865969,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 05:00:11.796134",
+    "Fridge (kWh)": 0.1436131796073008,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0501326404554229,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 05:15:11.796134",
+    "Fridge (kWh)": 0.1684658229230289,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0710436032294915,
+    "EV Charger (kWh)": 10.690151618881425
+  },
+  {
+    "Timestamp": "2024-12-20 05:30:11.796134",
+    "Fridge (kWh)": 0.1513846499517956,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0772757052809181,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 05:45:11.796134",
+    "Fridge (kWh)": 0.1821370620840011,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0597133555271162,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 06:00:11.796134",
+    "Fridge (kWh)": 0.1318790925753828,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 06:15:11.796134",
+    "Fridge (kWh)": 0.1315036993180061,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 06:30:11.796134",
+    "Fridge (kWh)": 0.1137511467658618,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 06:45:11.796134",
+    "Fridge (kWh)": 0.1721518102075979,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 07:00:11.796134",
+    "Fridge (kWh)": 0.1324179818259967,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 07:15:11.796134",
+    "Fridge (kWh)": 0.1253057910495879,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 07:30:11.796134",
+    "Fridge (kWh)": 0.1357890520555427,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 07:45:11.796134",
+    "Fridge (kWh)": 0.1399552850908242,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 08:00:11.796134",
+    "Fridge (kWh)": 0.1468370924246215,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 08:15:11.796134",
+    "Fridge (kWh)": 0.1663833462629325,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.172463526607379
+  },
+  {
+    "Timestamp": "2024-12-20 08:30:11.796134",
+    "Fridge (kWh)": 0.1775220683227358,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.792244910800992
+  },
+  {
+    "Timestamp": "2024-12-20 08:45:11.796134",
+    "Fridge (kWh)": 0.1354357026395591,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 09:00:11.796134",
+    "Fridge (kWh)": 0.1489854854177763,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 09:15:11.796134",
+    "Fridge (kWh)": 0.1620494063421809,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 09:30:11.796134",
+    "Fridge (kWh)": 0.1699457107106735,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 09:45:11.796134",
+    "Fridge (kWh)": 0.1258552874950797,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 10:00:11.796134",
+    "Fridge (kWh)": 0.1326419792379899,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 10:15:11.796134",
+    "Fridge (kWh)": 0.1643873633741719,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 10:30:11.796134",
+    "Fridge (kWh)": 0.157295007765935,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 10:45:11.796134",
+    "Fridge (kWh)": 0.1335944443706135,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 11:00:11.796134",
+    "Fridge (kWh)": 0.1611293289827368,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 11:15:11.796134",
+    "Fridge (kWh)": 0.1365721705141541,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 11:30:11.796134",
+    "Fridge (kWh)": 0.1427273391106773,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 11:45:11.796134",
+    "Fridge (kWh)": 0.1836098989331844,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 12:00:11.796134",
+    "Fridge (kWh)": 0.1631294424417875,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 12:15:11.796134",
+    "Fridge (kWh)": 0.1442917828664456,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 12:30:11.796134",
+    "Fridge (kWh)": 0.103520753449356,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 12:45:11.796134",
+    "Fridge (kWh)": 0.1509593512319263,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 13:00:11.796134",
+    "Fridge (kWh)": 0.1336290443317164,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 13:15:11.796134",
+    "Fridge (kWh)": 0.1595951432946746,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 13:30:11.796134",
+    "Fridge (kWh)": 0.1888605115014761,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 13:45:11.796134",
+    "Fridge (kWh)": 0.1546222937636413,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.998114322846837
+  },
+  {
+    "Timestamp": "2024-12-20 14:00:11.796134",
+    "Fridge (kWh)": 0.1731963748369949,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 14:15:11.796134",
+    "Fridge (kWh)": 0.1421998454092365,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 14:30:11.796134",
+    "Fridge (kWh)": 0.1104957470757294,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 14:45:11.796134",
+    "Fridge (kWh)": 0.1396126795739663,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 15:00:11.796134",
+    "Fridge (kWh)": 0.1457502635172103,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 15:15:11.796134",
+    "Fridge (kWh)": 0.1417756933175546,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 15:30:11.796134",
+    "Fridge (kWh)": 0.1500388017918454,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 15:45:11.796134",
+    "Fridge (kWh)": 0.1509157285429566,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 16:00:11.796134",
+    "Fridge (kWh)": 0.1537006911211327,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 16:15:11.796134",
+    "Fridge (kWh)": 0.1860141376171707,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 16:30:11.796134",
+    "Fridge (kWh)": 0.1745536015190418,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 16:45:11.796134",
+    "Fridge (kWh)": 0.1426730493154394,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 17:00:11.796134",
+    "Fridge (kWh)": 0.170122644992918,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 17:15:11.796134",
+    "Fridge (kWh)": 0.1813831419606133,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 17:30:11.796134",
+    "Fridge (kWh)": 0.2028248287541785,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 17:45:11.796134",
+    "Fridge (kWh)": 0.141177765068904,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 18:00:11.796134",
+    "Fridge (kWh)": 0.1591949895251692,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 18:15:11.796134",
+    "Fridge (kWh)": 0.1410679876738976,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 18:30:11.796134",
+    "Fridge (kWh)": 0.1330555785362461,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 18:45:11.796134",
+    "Fridge (kWh)": 0.1641525912496896,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 19:00:11.796134",
+    "Fridge (kWh)": 0.1571643310117723,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.084122018766686,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 19:15:11.796134",
+    "Fridge (kWh)": 0.1737722109186249,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0295641323507937,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 19:30:11.796134",
+    "Fridge (kWh)": 0.1254560703290214,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0285415153445285,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 19:45:11.796134",
+    "Fridge (kWh)": 0.1679527115241879,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0758933917842885,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 20:00:11.796134",
+    "Fridge (kWh)": 0.1505894794271043,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0960564431344406,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 20:15:11.796134",
+    "Fridge (kWh)": 0.1385060195332109,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0436625562980081,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 20:30:11.796134",
+    "Fridge (kWh)": 0.1535809047450751,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0688118273899907,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 20:45:11.796134",
+    "Fridge (kWh)": 0.1484648348499765,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0630972269282509,
+    "EV Charger (kWh)": 10.344785835139382
+  },
+  {
+    "Timestamp": "2024-12-20 21:00:11.796134",
+    "Fridge (kWh)": 0.1729432689851958,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0702724428761661,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 21:15:11.796134",
+    "Fridge (kWh)": 0.150587388247511,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0768325378714286,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 21:30:11.796134",
+    "Fridge (kWh)": 0.1221101020235764,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0583992623089736,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 21:45:11.796134",
+    "Fridge (kWh)": 0.1387938705471564,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0415645872675491,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 22:00:11.796134",
+    "Fridge (kWh)": 0.1528572872037067,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0883718429683694,
+    "EV Charger (kWh)": 10.689086648632356
+  },
+  {
+    "Timestamp": "2024-12-20 22:15:11.796134",
+    "Fridge (kWh)": 0.1195564489362874,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0263200732876502,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 22:30:11.796134",
+    "Fridge (kWh)": 0.1437864795237816,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0223569478423414,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 22:45:11.796134",
+    "Fridge (kWh)": 0.1597925675553818,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0327054605518828,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 23:00:11.796134",
+    "Fridge (kWh)": 0.1649981594198843,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0284760708118584,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 23:15:11.796134",
+    "Fridge (kWh)": 0.2080862718889075,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0819729204998788,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 23:30:11.796134",
+    "Fridge (kWh)": 0.1539716842794152,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0517011427559003,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-20 23:45:11.796134",
+    "Fridge (kWh)": 0.1347116782742906,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0702485758169328,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 00:00:11.796134",
+    "Fridge (kWh)": 0.1225629123310761,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0876333897454789,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 00:15:11.796134",
+    "Fridge (kWh)": 0.1292160649792073,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0482518735197172,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 00:30:11.796134",
+    "Fridge (kWh)": 0.1321480039132532,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0740497499462121,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 00:45:11.796134",
+    "Fridge (kWh)": 0.1703678011728091,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0723471613444217,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 01:00:11.796134",
+    "Fridge (kWh)": 0.1703164252552803,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0752220390375694,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 01:15:11.796134",
+    "Fridge (kWh)": 0.1439392400075013,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.053944162697616,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 01:30:11.796134",
+    "Fridge (kWh)": 0.1688779175869875,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0703969920138924,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 01:45:11.796134",
+    "Fridge (kWh)": 0.1588817085879405,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.033515137787401,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 02:00:11.796134",
+    "Fridge (kWh)": 0.1493305651663849,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0283476876694501,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 02:15:11.796134",
+    "Fridge (kWh)": 0.1615092493296518,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0872003322148101,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 02:30:11.796134",
+    "Fridge (kWh)": 0.1275216522944272,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0633492100382267,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 02:45:11.796134",
+    "Fridge (kWh)": 0.1878245451674938,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0276622066924972,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 03:00:11.796134",
+    "Fridge (kWh)": 0.1411286051080476,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0311044072459634,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 03:15:11.796134",
+    "Fridge (kWh)": 0.1330583172773045,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0229276176813584,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 03:30:11.796134",
+    "Fridge (kWh)": 0.1736226150862388,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0201537587001845,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 03:45:11.796134",
+    "Fridge (kWh)": 0.1353369584342544,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0217489322283463,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 04:00:11.796134",
+    "Fridge (kWh)": 0.15177094827942,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0388085830593524,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 04:15:11.796134",
+    "Fridge (kWh)": 0.1184869368060968,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0511623687041057,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 04:30:11.796134",
+    "Fridge (kWh)": 0.1674794741778204,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0373701455461324,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 04:45:11.796134",
+    "Fridge (kWh)": 0.163283701062741,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0517678579614681,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 05:00:11.796134",
+    "Fridge (kWh)": 0.1678750995644618,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0610015906555442,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 05:15:11.796134",
+    "Fridge (kWh)": 0.1686910893308848,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0309906913756977,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 05:30:11.796134",
+    "Fridge (kWh)": 0.1537473056394212,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0760794411014904,
+    "EV Charger (kWh)": 8.685358554680025
+  },
+  {
+    "Timestamp": "2024-12-21 05:45:11.796134",
+    "Fridge (kWh)": 0.1549632935471234,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0697961896290722,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 06:00:11.796134",
+    "Fridge (kWh)": 0.119455012921827,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 06:15:11.796134",
+    "Fridge (kWh)": 0.158939949246166,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 06:30:11.796134",
+    "Fridge (kWh)": 0.1587240510915422,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 06:45:11.796134",
+    "Fridge (kWh)": 0.1314776005526714,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 07:00:11.796134",
+    "Fridge (kWh)": 0.1691115779292663,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 07:15:11.796134",
+    "Fridge (kWh)": 0.1735035038012894,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 07:30:11.796134",
+    "Fridge (kWh)": 0.1438725329510955,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 07:45:11.796134",
+    "Fridge (kWh)": 0.1497328405896018,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 08:00:11.796134",
+    "Fridge (kWh)": 0.157169900568871,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 08:15:11.796134",
+    "Fridge (kWh)": 0.1277495902512496,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.272115226902653
+  },
+  {
+    "Timestamp": "2024-12-21 08:30:11.796134",
+    "Fridge (kWh)": 0.1347023661966571,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 08:45:11.796134",
+    "Fridge (kWh)": 0.1606417560029868,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 09:00:11.796134",
+    "Fridge (kWh)": 0.1546525110476142,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 09:15:11.796134",
+    "Fridge (kWh)": 0.1861909913206169,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 09:30:11.796134",
+    "Fridge (kWh)": 0.1738619292168727,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 09:45:11.796134",
+    "Fridge (kWh)": 0.1386503225354216,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 10:00:11.796134",
+    "Fridge (kWh)": 0.1503145823111533,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 10:15:11.796134",
+    "Fridge (kWh)": 0.150920075557146,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 10:30:11.796134",
+    "Fridge (kWh)": 0.1500052580371616,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 10:45:11.796134",
+    "Fridge (kWh)": 0.1754002931622803,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 11:00:11.796134",
+    "Fridge (kWh)": 0.1434627496585415,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 11:15:11.796134",
+    "Fridge (kWh)": 0.1460432602587267,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 11:30:11.796134",
+    "Fridge (kWh)": 0.1337837714497817,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 11:45:11.796134",
+    "Fridge (kWh)": 0.1426098383278656,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 12:00:11.796134",
+    "Fridge (kWh)": 0.1622185621019025,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 12:15:11.796134",
+    "Fridge (kWh)": 0.1774481853985977,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 12:30:11.796134",
+    "Fridge (kWh)": 0.1543624509480197,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 12:45:11.796134",
+    "Fridge (kWh)": 0.176416300317097,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 13:00:11.796134",
+    "Fridge (kWh)": 0.1323431792269226,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 13:15:11.796134",
+    "Fridge (kWh)": 0.1240803440857352,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 13:30:11.796134",
+    "Fridge (kWh)": 0.1473641200388563,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.72100613249955
+  },
+  {
+    "Timestamp": "2024-12-21 13:45:11.796134",
+    "Fridge (kWh)": 0.1431362884731656,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 14:00:11.796134",
+    "Fridge (kWh)": 0.1599912056944445,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 14:15:11.796134",
+    "Fridge (kWh)": 0.1057004666932115,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 14:30:11.796134",
+    "Fridge (kWh)": 0.1403574358131251,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 14:45:11.796134",
+    "Fridge (kWh)": 0.1611517804850222,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 15:00:11.796134",
+    "Fridge (kWh)": 0.1493204241061967,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 15:15:11.796134",
+    "Fridge (kWh)": 0.136756511784047,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.27347907562336
+  },
+  {
+    "Timestamp": "2024-12-21 15:30:11.796134",
+    "Fridge (kWh)": 0.1665320315622213,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.8153835035645
+  },
+  {
+    "Timestamp": "2024-12-21 15:45:11.796134",
+    "Fridge (kWh)": 0.1455187641623891,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 16:00:11.796134",
+    "Fridge (kWh)": 0.1513364048711211,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 16:15:11.796134",
+    "Fridge (kWh)": 0.1361052157078499,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 16:30:11.796134",
+    "Fridge (kWh)": 0.1554456679699524,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 16:45:11.796134",
+    "Fridge (kWh)": 0.137938649976387,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 17:00:11.796134",
+    "Fridge (kWh)": 0.1266903208021196,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 17:15:11.796134",
+    "Fridge (kWh)": 0.1649520369060581,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 17:30:11.796134",
+    "Fridge (kWh)": 0.1472427738719124,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 17:45:11.796134",
+    "Fridge (kWh)": 0.1190628894739343,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 18:00:11.796134",
+    "Fridge (kWh)": 0.1692915681998432,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.862866361712534
+  },
+  {
+    "Timestamp": "2024-12-21 18:15:11.796134",
+    "Fridge (kWh)": 0.1779571782571843,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 18:30:11.796134",
+    "Fridge (kWh)": 0.1321569441997282,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 18:45:11.796134",
+    "Fridge (kWh)": 0.129933888089375,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.474944022438134
+  },
+  {
+    "Timestamp": "2024-12-21 19:00:11.796134",
+    "Fridge (kWh)": 0.1244696937602175,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0804812413355375,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 19:15:11.796134",
+    "Fridge (kWh)": 0.1793552264164815,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0872689077597732,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 19:30:11.796134",
+    "Fridge (kWh)": 0.1694742179736798,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0642811310492988,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 19:45:11.796134",
+    "Fridge (kWh)": 0.1606842389933017,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0717773942278574,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 20:00:11.796134",
+    "Fridge (kWh)": 0.1626115047032842,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0339589071216183,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 20:15:11.796134",
+    "Fridge (kWh)": 0.1540799003175478,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0756786426991759,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 20:30:11.796134",
+    "Fridge (kWh)": 0.0993543881953372,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0323156418691816,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 20:45:11.796134",
+    "Fridge (kWh)": 0.1682326406924418,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0596861417068918,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 21:00:11.796134",
+    "Fridge (kWh)": 0.1612191992158113,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0492274853085447,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 21:15:11.796134",
+    "Fridge (kWh)": 0.1582776033149881,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0491945687981171,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 21:30:11.796134",
+    "Fridge (kWh)": 0.1465862918874022,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0878379581529426,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 21:45:11.796134",
+    "Fridge (kWh)": 0.164042687941507,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0419954061081108,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 22:00:11.796134",
+    "Fridge (kWh)": 0.1346654714168567,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0676295190789678,
+    "EV Charger (kWh)": 9.986202254714454
+  },
+  {
+    "Timestamp": "2024-12-21 22:15:11.796134",
+    "Fridge (kWh)": 0.1441902385536463,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0446119186870848,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 22:30:11.796134",
+    "Fridge (kWh)": 0.1250442070204383,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0963855634455854,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 22:45:11.796134",
+    "Fridge (kWh)": 0.1671987800305236,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0360316507194472,
+    "EV Charger (kWh)": 7.1169125145578045
+  },
+  {
+    "Timestamp": "2024-12-21 23:00:11.796134",
+    "Fridge (kWh)": 0.1295964880212908,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.092261237100295,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 23:15:11.796134",
+    "Fridge (kWh)": 0.1446292676038006,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0291313234713102,
+    "EV Charger (kWh)": 8.761822294108438
+  },
+  {
+    "Timestamp": "2024-12-21 23:30:11.796134",
+    "Fridge (kWh)": 0.146244122561883,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.052065052802022,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-21 23:45:11.796134",
+    "Fridge (kWh)": 0.1552764099750933,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0884189196694375,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 00:00:11.796134",
+    "Fridge (kWh)": 0.1264382656186862,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0824776291362642,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 00:15:11.796134",
+    "Fridge (kWh)": 0.1493269723570944,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0888955634853806,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 00:30:11.796134",
+    "Fridge (kWh)": 0.1388583727161932,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0683515931433913,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 00:45:11.796134",
+    "Fridge (kWh)": 0.1543789637661916,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0252059769762576,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 01:00:11.796134",
+    "Fridge (kWh)": 0.1472960161637753,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0976288784631195,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 01:15:11.796134",
+    "Fridge (kWh)": 0.1381089581412567,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0986566136024704,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 01:30:11.796134",
+    "Fridge (kWh)": 0.1502872226862234,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0237952959430824,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 01:45:11.796134",
+    "Fridge (kWh)": 0.1451687970942013,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0577159945915902,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 02:00:11.796134",
+    "Fridge (kWh)": 0.1547326274864935,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0306707936808984,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 02:15:11.796134",
+    "Fridge (kWh)": 0.1601484760692293,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0434639692330068,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 02:30:11.796134",
+    "Fridge (kWh)": 0.1844309425306869,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0691503440989709,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 02:45:11.796134",
+    "Fridge (kWh)": 0.1280987759266123,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0473714205947277,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 03:00:11.796134",
+    "Fridge (kWh)": 0.1731582183377523,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0979312694588262,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 03:15:11.796134",
+    "Fridge (kWh)": 0.1725293955997642,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0859692230009079,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 03:30:11.796134",
+    "Fridge (kWh)": 0.1634513054400609,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0355015017682598,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 03:45:11.796134",
+    "Fridge (kWh)": 0.1472485271445244,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0770566017390599,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 04:00:11.796134",
+    "Fridge (kWh)": 0.1473734183588532,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0681092264570475,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 04:15:11.796134",
+    "Fridge (kWh)": 0.1532759055253997,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0313293571335814,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 04:30:11.796134",
+    "Fridge (kWh)": 0.1452921297391854,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0269971290386544,
+    "EV Charger (kWh)": 9.04842323686633
+  },
+  {
+    "Timestamp": "2024-12-22 04:45:11.796134",
+    "Fridge (kWh)": 0.1589466806402704,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0913074681218811,
+    "EV Charger (kWh)": 7.64941777764555
+  },
+  {
+    "Timestamp": "2024-12-22 05:00:11.796134",
+    "Fridge (kWh)": 0.1348873506302532,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0637656465886037,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 05:15:11.796134",
+    "Fridge (kWh)": 0.1648225920680515,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.044257944027881,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 05:30:11.796134",
+    "Fridge (kWh)": 0.1670408394791063,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0363206888109132,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 05:45:11.796134",
+    "Fridge (kWh)": 0.1927325350484187,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0847586733192507,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 06:00:11.796134",
+    "Fridge (kWh)": 0.1631353342998699,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 06:15:11.796134",
+    "Fridge (kWh)": 0.2010846134971685,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 06:30:11.796134",
+    "Fridge (kWh)": 0.1237641992492263,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.422727769635539
+  },
+  {
+    "Timestamp": "2024-12-22 06:45:11.796134",
+    "Fridge (kWh)": 0.1410940818459704,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 07:00:11.796134",
+    "Fridge (kWh)": 0.1299653675117894,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 07:15:11.796134",
+    "Fridge (kWh)": 0.1499968744281953,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 07:30:11.796134",
+    "Fridge (kWh)": 0.1583049602244862,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 07:45:11.796134",
+    "Fridge (kWh)": 0.1553918025221518,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 08:00:11.796134",
+    "Fridge (kWh)": 0.1438161369073879,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 08:15:11.796134",
+    "Fridge (kWh)": 0.1438451017179227,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.557901140839181
+  },
+  {
+    "Timestamp": "2024-12-22 08:30:11.796134",
+    "Fridge (kWh)": 0.1684447981030676,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 08:45:11.796134",
+    "Fridge (kWh)": 0.1390842665785064,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 09:00:11.796134",
+    "Fridge (kWh)": 0.136655592352843,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 09:15:11.796134",
+    "Fridge (kWh)": 0.1701867705325666,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 09:30:11.796134",
+    "Fridge (kWh)": 0.1575014922458961,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 09:45:11.796134",
+    "Fridge (kWh)": 0.1401810684024449,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 10:00:11.796134",
+    "Fridge (kWh)": 0.1111828324036555,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 10:15:11.796134",
+    "Fridge (kWh)": 0.155489281069434,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 10:30:11.796134",
+    "Fridge (kWh)": 0.1320779916232863,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 10:45:11.796134",
+    "Fridge (kWh)": 0.1633796961721847,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 11:00:11.796134",
+    "Fridge (kWh)": 0.1487752462338828,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.476679765839655
+  },
+  {
+    "Timestamp": "2024-12-22 11:15:11.796134",
+    "Fridge (kWh)": 0.1724564086309467,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 11:30:11.796134",
+    "Fridge (kWh)": 0.1288782110966246,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 11:45:11.796134",
+    "Fridge (kWh)": 0.1641041191014526,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 12:00:11.796134",
+    "Fridge (kWh)": 0.184317391117179,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 12:15:11.796134",
+    "Fridge (kWh)": 0.1453524877862338,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 12:30:11.796134",
+    "Fridge (kWh)": 0.169914068716676,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 12:45:11.796134",
+    "Fridge (kWh)": 0.178849279824007,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 13:00:11.796134",
+    "Fridge (kWh)": 0.1280056142094801,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 13:15:11.796134",
+    "Fridge (kWh)": 0.1318598587986825,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 13:30:11.796134",
+    "Fridge (kWh)": 0.1648030235246042,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 13:45:11.796134",
+    "Fridge (kWh)": 0.1523733445705454,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 14:00:11.796134",
+    "Fridge (kWh)": 0.1763488149673443,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 14:15:11.796134",
+    "Fridge (kWh)": 0.1270022323215641,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 14:30:11.796134",
+    "Fridge (kWh)": 0.1764214197986154,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 14:45:11.796134",
+    "Fridge (kWh)": 0.1525134257314064,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.179353129047099
+  },
+  {
+    "Timestamp": "2024-12-22 15:00:11.796134",
+    "Fridge (kWh)": 0.1407044694036539,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 15:15:11.796134",
+    "Fridge (kWh)": 0.1393419159299745,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 15:30:11.796134",
+    "Fridge (kWh)": 0.146072928951119,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 15:45:11.796134",
+    "Fridge (kWh)": 0.149460731077705,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 16:00:11.796134",
+    "Fridge (kWh)": 0.1701959230096518,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 16:15:11.796134",
+    "Fridge (kWh)": 0.1187073800003688,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 16:30:11.796134",
+    "Fridge (kWh)": 0.1604830346531752,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 16:45:11.796134",
+    "Fridge (kWh)": 0.1261448656966265,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 17:00:11.796134",
+    "Fridge (kWh)": 0.1561035038041537,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 17:15:11.796134",
+    "Fridge (kWh)": 0.1540255034240638,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 17:30:11.796134",
+    "Fridge (kWh)": 0.1523770790488429,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 17:45:11.796134",
+    "Fridge (kWh)": 0.145849212059599,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 18:00:11.796134",
+    "Fridge (kWh)": 0.0963969138250196,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 18:15:11.796134",
+    "Fridge (kWh)": 0.1462732025980306,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 18:30:11.796134",
+    "Fridge (kWh)": 0.1538414438608012,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 18:45:11.796134",
+    "Fridge (kWh)": 0.1586346137411311,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 19:00:11.796134",
+    "Fridge (kWh)": 0.1396927425384511,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0459931112324556,
+    "EV Charger (kWh)": 7.711483353340736
+  },
+  {
+    "Timestamp": "2024-12-22 19:15:11.796134",
+    "Fridge (kWh)": 0.1608893769618448,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0334175188453113,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 19:30:11.796134",
+    "Fridge (kWh)": 0.1614052760314691,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0791406707455407,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 19:45:11.796134",
+    "Fridge (kWh)": 0.1491120558765969,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0838940214824391,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 20:00:11.796134",
+    "Fridge (kWh)": 0.1486447673917479,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0285545626615623,
+    "EV Charger (kWh)": 9.258198547345714
+  },
+  {
+    "Timestamp": "2024-12-22 20:15:11.796134",
+    "Fridge (kWh)": 0.1436423566512719,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0936596020737472,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 20:30:11.796134",
+    "Fridge (kWh)": 0.1416725777062588,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0300481321763554,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 20:45:11.796134",
+    "Fridge (kWh)": 0.131429862206482,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0423702473288113,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 21:00:11.796134",
+    "Fridge (kWh)": 0.16568491583255,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0837120583077098,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 21:15:11.796134",
+    "Fridge (kWh)": 0.1739879136100186,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0528456886369314,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 21:30:11.796134",
+    "Fridge (kWh)": 0.1347780031674636,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0591624918824466,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 21:45:11.796134",
+    "Fridge (kWh)": 0.1294179982009381,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0568986528289666,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 22:00:11.796134",
+    "Fridge (kWh)": 0.1523657112686968,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0705141487077752,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 22:15:11.796134",
+    "Fridge (kWh)": 0.0858122239750882,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0983935761164961,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 22:30:11.796134",
+    "Fridge (kWh)": 0.1714075118853718,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0511029528450219,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 22:45:11.796134",
+    "Fridge (kWh)": 0.1690096924597862,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.099633631054372,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 23:00:11.796134",
+    "Fridge (kWh)": 0.1398405377780089,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0701402405051683,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 23:15:11.796134",
+    "Fridge (kWh)": 0.1708169677042018,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0232872737656997,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 23:30:11.796134",
+    "Fridge (kWh)": 0.1342953508925504,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0459068012077425,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-22 23:45:11.796134",
+    "Fridge (kWh)": 0.1579801304558163,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.074046240798939,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 00:00:11.796134",
+    "Fridge (kWh)": 0.1695560059813025,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0407486048983466,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 00:15:11.796134",
+    "Fridge (kWh)": 0.1665296294189541,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0304788845199212,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 00:30:11.796134",
+    "Fridge (kWh)": 0.1355325516066044,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0939495286410392,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 00:45:11.796134",
+    "Fridge (kWh)": 0.147780870728721,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0274725907310295,
+    "EV Charger (kWh)": 10.635207929079744
+  },
+  {
+    "Timestamp": "2024-12-23 01:00:11.796134",
+    "Fridge (kWh)": 0.1432352419712003,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0440274651224798,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 01:15:11.796134",
+    "Fridge (kWh)": 0.1719131092494401,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0315926697835247,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 01:30:11.796134",
+    "Fridge (kWh)": 0.1339407096037944,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0854216859042704,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 01:45:11.796134",
+    "Fridge (kWh)": 0.122388248219809,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0521662940620915,
+    "EV Charger (kWh)": 9.177581145386522
+  },
+  {
+    "Timestamp": "2024-12-23 02:00:11.796134",
+    "Fridge (kWh)": 0.2068961805846945,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0498236170764413,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 02:15:11.796134",
+    "Fridge (kWh)": 0.1314500514066447,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.048041405397629,
+    "EV Charger (kWh)": 10.746638082038666
+  },
+  {
+    "Timestamp": "2024-12-23 02:30:11.796134",
+    "Fridge (kWh)": 0.123619974270921,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0709231672869913,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 02:45:11.796134",
+    "Fridge (kWh)": 0.2015182719581293,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0287795181436555,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 03:00:11.796134",
+    "Fridge (kWh)": 0.1028443491370734,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0398594869131876,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 03:15:11.796134",
+    "Fridge (kWh)": 0.1261128180075655,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0338939951988749,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 03:30:11.796134",
+    "Fridge (kWh)": 0.1493033628780984,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0758390218686985,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 03:45:11.796134",
+    "Fridge (kWh)": 0.154200198029938,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0217342462660834,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 04:00:11.796134",
+    "Fridge (kWh)": 0.168037789301029,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0315386244443991,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 04:15:11.796134",
+    "Fridge (kWh)": 0.1853945862233198,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0421078693894197,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 04:30:11.796134",
+    "Fridge (kWh)": 0.1744951735226153,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0710482027522867,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 04:45:11.796134",
+    "Fridge (kWh)": 0.1362750643066681,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0532152278849948,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 05:00:11.796134",
+    "Fridge (kWh)": 0.1358847453819885,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0399880846913633,
+    "EV Charger (kWh)": 8.700553753558186
+  },
+  {
+    "Timestamp": "2024-12-23 05:15:11.796134",
+    "Fridge (kWh)": 0.1545782955693866,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0749582278879954,
+    "EV Charger (kWh)": 7.670140441139193
+  },
+  {
+    "Timestamp": "2024-12-23 05:30:11.796134",
+    "Fridge (kWh)": 0.1765007636501234,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0630150453011732,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 05:45:11.796134",
+    "Fridge (kWh)": 0.1707940016604139,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0972675378881005,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 06:00:11.796134",
+    "Fridge (kWh)": 0.1249614681863456,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 06:15:11.796134",
+    "Fridge (kWh)": 0.1338924876871649,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 06:30:11.796134",
+    "Fridge (kWh)": 0.1352875081658362,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 06:45:11.796134",
+    "Fridge (kWh)": 0.1379962101562233,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 07:00:11.796134",
+    "Fridge (kWh)": 0.1748975591600075,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.471578414190096
+  },
+  {
+    "Timestamp": "2024-12-23 07:15:11.796134",
+    "Fridge (kWh)": 0.1903893245768396,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.182503237806053
+  },
+  {
+    "Timestamp": "2024-12-23 07:30:11.796134",
+    "Fridge (kWh)": 0.1529861420485318,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 07:45:11.796134",
+    "Fridge (kWh)": 0.13589173016449,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 08:00:11.796134",
+    "Fridge (kWh)": 0.1504404183095648,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 08:15:11.796134",
+    "Fridge (kWh)": 0.1643111655626952,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 08:30:11.796134",
+    "Fridge (kWh)": 0.1445807557193919,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.865377321794703
+  },
+  {
+    "Timestamp": "2024-12-23 08:45:11.796134",
+    "Fridge (kWh)": 0.1557501123642278,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 09:00:11.796134",
+    "Fridge (kWh)": 0.1472819739195045,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 09:15:11.796134",
+    "Fridge (kWh)": 0.140755629614551,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 09:30:11.796134",
+    "Fridge (kWh)": 0.1436916782397985,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 09:45:11.796134",
+    "Fridge (kWh)": 0.1522629174535636,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 10:00:11.796134",
+    "Fridge (kWh)": 0.1470419214290755,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.5272245776396
+  },
+  {
+    "Timestamp": "2024-12-23 10:15:11.796134",
+    "Fridge (kWh)": 0.1319675131694213,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 10:30:11.796134",
+    "Fridge (kWh)": 0.1525629513082004,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 10:45:11.796134",
+    "Fridge (kWh)": 0.1275617130869838,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 11:00:11.796134",
+    "Fridge (kWh)": 0.1336085643914552,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 11:15:11.796134",
+    "Fridge (kWh)": 0.1558377012768781,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 11:30:11.796134",
+    "Fridge (kWh)": 0.1716780748470522,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 11:45:11.796134",
+    "Fridge (kWh)": 0.1422672118808909,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 12:00:11.796134",
+    "Fridge (kWh)": 0.1614295217087965,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 12:15:11.796134",
+    "Fridge (kWh)": 0.1451262932409796,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 12:30:11.796134",
+    "Fridge (kWh)": 0.1442454936849921,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 12:45:11.796134",
+    "Fridge (kWh)": 0.168308970829857,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 13:00:11.796134",
+    "Fridge (kWh)": 0.1680127963656201,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 13:15:11.796134",
+    "Fridge (kWh)": 0.1762540277011018,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.07389677350006
+  },
+  {
+    "Timestamp": "2024-12-23 13:30:11.796134",
+    "Fridge (kWh)": 0.1724967753917067,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 13:45:11.796134",
+    "Fridge (kWh)": 0.1645158392564827,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 14:00:11.796134",
+    "Fridge (kWh)": 0.1274299714462535,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 14:15:11.796134",
+    "Fridge (kWh)": 0.1473058050290859,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.192832354958725
+  },
+  {
+    "Timestamp": "2024-12-23 14:30:11.796134",
+    "Fridge (kWh)": 0.1619944309862655,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 14:45:11.796134",
+    "Fridge (kWh)": 0.1719271300172367,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 15:00:11.796134",
+    "Fridge (kWh)": 0.1388396103285011,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 15:15:11.796134",
+    "Fridge (kWh)": 0.1595733737761394,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 15:30:11.796134",
+    "Fridge (kWh)": 0.147563006445098,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.30279176867564
+  },
+  {
+    "Timestamp": "2024-12-23 15:45:11.796134",
+    "Fridge (kWh)": 0.1610243467534736,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 16:00:11.796134",
+    "Fridge (kWh)": 0.170196155439509,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 16:15:11.796134",
+    "Fridge (kWh)": 0.1268548462770668,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 16:30:11.796134",
+    "Fridge (kWh)": 0.1591989615047243,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 16:45:11.796134",
+    "Fridge (kWh)": 0.1515447229189138,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 17:00:11.796134",
+    "Fridge (kWh)": 0.1112138516262695,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.51141974129157
+  },
+  {
+    "Timestamp": "2024-12-23 17:15:11.796134",
+    "Fridge (kWh)": 0.1431116410401392,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 17:30:11.796134",
+    "Fridge (kWh)": 0.1514355455982429,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.752676343309679
+  },
+  {
+    "Timestamp": "2024-12-23 17:45:11.796134",
+    "Fridge (kWh)": 0.1532179847145333,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 18:00:11.796134",
+    "Fridge (kWh)": 0.1415660507542863,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 18:15:11.796134",
+    "Fridge (kWh)": 0.1453280198116382,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 18:30:11.796134",
+    "Fridge (kWh)": 0.1392561108372374,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.523666605870069
+  },
+  {
+    "Timestamp": "2024-12-23 18:45:11.796134",
+    "Fridge (kWh)": 0.1394614773038906,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 19:00:11.796134",
+    "Fridge (kWh)": 0.1600597103930899,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.061296511295299,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 19:15:11.796134",
+    "Fridge (kWh)": 0.1530334621542712,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0981795244794396,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 19:30:11.796134",
+    "Fridge (kWh)": 0.17717117675376,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0667787578307807,
+    "EV Charger (kWh)": 8.565103825032255
+  },
+  {
+    "Timestamp": "2024-12-23 19:45:11.796134",
+    "Fridge (kWh)": 0.1268054985250633,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0983271584181338,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 20:00:11.796134",
+    "Fridge (kWh)": 0.1220352044277417,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0582336925660436,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 20:15:11.796134",
+    "Fridge (kWh)": 0.139170181531902,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0447772890325993,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 20:30:11.796134",
+    "Fridge (kWh)": 0.1425485611838721,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0221863639999141,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 20:45:11.796134",
+    "Fridge (kWh)": 0.11963371625297,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.037712030296306,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 21:00:11.796134",
+    "Fridge (kWh)": 0.177153203583059,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0759985668466542,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 21:15:11.796134",
+    "Fridge (kWh)": 0.1473976946549907,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0505843308492727,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 21:30:11.796134",
+    "Fridge (kWh)": 0.1577675808658711,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0938908101623116,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 21:45:11.796134",
+    "Fridge (kWh)": 0.1556049236160225,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0328384462854767,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 22:00:11.796134",
+    "Fridge (kWh)": 0.1641246985552556,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0996957170266244,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 22:15:11.796134",
+    "Fridge (kWh)": 0.1378269940906197,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0482448575458024,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 22:30:11.796134",
+    "Fridge (kWh)": 0.1612245937612705,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0617023492936847,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 22:45:11.796134",
+    "Fridge (kWh)": 0.1536462067954958,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0270538086866198,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 23:00:11.796134",
+    "Fridge (kWh)": 0.1376835342196075,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.065932647649768,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 23:15:11.796134",
+    "Fridge (kWh)": 0.1491307342561015,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0316286797345047,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-23 23:30:11.796134",
+    "Fridge (kWh)": 0.1819592284729005,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0682353782384295,
+    "EV Charger (kWh)": 10.097258769767484
+  },
+  {
+    "Timestamp": "2024-12-23 23:45:11.796134",
+    "Fridge (kWh)": 0.1740438133034997,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0624509746146433,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 00:00:11.796134",
+    "Fridge (kWh)": 0.1273344866935086,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0759107160313919,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 00:15:11.796134",
+    "Fridge (kWh)": 0.1162656618586375,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0736588449884874,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 00:30:11.796134",
+    "Fridge (kWh)": 0.1506245669419933,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0625621282532718,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 00:45:11.796134",
+    "Fridge (kWh)": 0.1745050788239949,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0457582613578596,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 01:00:11.796134",
+    "Fridge (kWh)": 0.1320444003100558,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0226168914901432,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 01:15:11.796134",
+    "Fridge (kWh)": 0.141664821418607,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0820919218428585,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 01:30:11.796134",
+    "Fridge (kWh)": 0.1753409268476775,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0715268052015987,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 01:45:11.796134",
+    "Fridge (kWh)": 0.1205863822612519,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0629254926022049,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 02:00:11.796134",
+    "Fridge (kWh)": 0.13654915685077,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0568858955300676,
+    "EV Charger (kWh)": 9.996313596480146
+  },
+  {
+    "Timestamp": "2024-12-24 02:15:11.796134",
+    "Fridge (kWh)": 0.1436258414944472,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.064810400138621,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 02:30:11.796134",
+    "Fridge (kWh)": 0.1712729201123837,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.031291716436497,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 02:45:11.796134",
+    "Fridge (kWh)": 0.1539482071738592,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0631809141078379,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 03:00:11.796134",
+    "Fridge (kWh)": 0.1444477014091267,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0613936106726701,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 03:15:11.796134",
+    "Fridge (kWh)": 0.133971743887753,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0397915479872199,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 03:30:11.796134",
+    "Fridge (kWh)": 0.1833821015774494,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0202670459467743,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 03:45:11.796134",
+    "Fridge (kWh)": 0.165915141833278,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0854674635392692,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 04:00:11.796134",
+    "Fridge (kWh)": 0.1718223136934559,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.060288148635765,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 04:15:11.796134",
+    "Fridge (kWh)": 0.1487961824949305,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0331815086748809,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 04:30:11.796134",
+    "Fridge (kWh)": 0.1131267515518214,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0411377998548989,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 04:45:11.796134",
+    "Fridge (kWh)": 0.172026926588669,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0381061583172373,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 05:00:11.796134",
+    "Fridge (kWh)": 0.1345240286127026,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0722232699247666,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 05:15:11.796134",
+    "Fridge (kWh)": 0.15218278212174,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0817764415812556,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 05:30:11.796134",
+    "Fridge (kWh)": 0.1231588030850667,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0572314075393964,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 05:45:11.796134",
+    "Fridge (kWh)": 0.1859087773753928,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0703916000965296,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 06:00:11.796134",
+    "Fridge (kWh)": 0.1832482074324814,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 06:15:11.796134",
+    "Fridge (kWh)": 0.1463543210344487,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.333593910479175
+  },
+  {
+    "Timestamp": "2024-12-24 06:30:11.796134",
+    "Fridge (kWh)": 0.1681008047711568,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 06:45:11.796134",
+    "Fridge (kWh)": 0.1670603601826341,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 07:00:11.796134",
+    "Fridge (kWh)": 0.1569951382564743,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 07:15:11.796134",
+    "Fridge (kWh)": 0.1654953577354564,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 07:30:11.796134",
+    "Fridge (kWh)": 0.1763980553487706,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 07:45:11.796134",
+    "Fridge (kWh)": 0.1234799674845352,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 08:00:11.796134",
+    "Fridge (kWh)": 0.1641755796886177,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 08:15:11.796134",
+    "Fridge (kWh)": 0.1464029913693556,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 08:30:11.796134",
+    "Fridge (kWh)": 0.1313957304048077,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 08:45:11.796134",
+    "Fridge (kWh)": 0.1470425148203664,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 09:00:11.796134",
+    "Fridge (kWh)": 0.1325011597941919,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.965287530793168
+  },
+  {
+    "Timestamp": "2024-12-24 09:15:11.796134",
+    "Fridge (kWh)": 0.1695028550275248,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 09:30:11.796134",
+    "Fridge (kWh)": 0.1434654522339611,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 09:45:11.796134",
+    "Fridge (kWh)": 0.1830395103827313,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 10:00:11.796134",
+    "Fridge (kWh)": 0.1200662744940741,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 10:15:11.796134",
+    "Fridge (kWh)": 0.1213320953337143,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 10:30:11.796134",
+    "Fridge (kWh)": 0.1285880214718548,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 10:45:11.796134",
+    "Fridge (kWh)": 0.1803412313877818,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 11:00:11.796134",
+    "Fridge (kWh)": 0.1559907408680755,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 11:15:11.796134",
+    "Fridge (kWh)": 0.1360952789528437,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 11:30:11.796134",
+    "Fridge (kWh)": 0.1467983084768054,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 11:45:11.796134",
+    "Fridge (kWh)": 0.1263434989144816,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 12:00:11.796134",
+    "Fridge (kWh)": 0.131751842872317,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 12:15:11.796134",
+    "Fridge (kWh)": 0.163588343945062,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 12:30:11.796134",
+    "Fridge (kWh)": 0.1297828386583118,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 12:45:11.796134",
+    "Fridge (kWh)": 0.1121712102982777,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.404479686122809
+  },
+  {
+    "Timestamp": "2024-12-24 13:00:11.796134",
+    "Fridge (kWh)": 0.1334020292394225,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 13:15:11.796134",
+    "Fridge (kWh)": 0.103883623733234,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 13:30:11.796134",
+    "Fridge (kWh)": 0.1392813120955052,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 13:45:11.796134",
+    "Fridge (kWh)": 0.1599877220968344,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.461319079492345
+  },
+  {
+    "Timestamp": "2024-12-24 14:00:11.796134",
+    "Fridge (kWh)": 0.1560939043978598,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 14:15:11.796134",
+    "Fridge (kWh)": 0.1405038461866948,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 14:30:11.796134",
+    "Fridge (kWh)": 0.1329177603100435,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 14:45:11.796134",
+    "Fridge (kWh)": 0.1642552778434191,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 15:00:11.796134",
+    "Fridge (kWh)": 0.1513697160284544,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 15:15:11.796134",
+    "Fridge (kWh)": 0.1466679267745817,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 15:30:11.796134",
+    "Fridge (kWh)": 0.1603910360310638,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.49147163552878
+  },
+  {
+    "Timestamp": "2024-12-24 15:45:11.796134",
+    "Fridge (kWh)": 0.1292294955191846,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 16:00:11.796134",
+    "Fridge (kWh)": 0.1864359856518107,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 16:15:11.796134",
+    "Fridge (kWh)": 0.1572469221527922,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 16:30:11.796134",
+    "Fridge (kWh)": 0.166359946149935,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 16:45:11.796134",
+    "Fridge (kWh)": 0.1696500201432143,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 17:00:11.796134",
+    "Fridge (kWh)": 0.1159447636579077,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 17:15:11.796134",
+    "Fridge (kWh)": 0.1447418253105356,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 17:30:11.796134",
+    "Fridge (kWh)": 0.1672844276432371,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 17:45:11.796134",
+    "Fridge (kWh)": 0.1638888207452321,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.676538505392678
+  },
+  {
+    "Timestamp": "2024-12-24 18:00:11.796134",
+    "Fridge (kWh)": 0.1861590494343434,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 18:15:11.796134",
+    "Fridge (kWh)": 0.1624681993359314,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.084026690879131
+  },
+  {
+    "Timestamp": "2024-12-24 18:30:11.796134",
+    "Fridge (kWh)": 0.145312896516335,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 18:45:11.796134",
+    "Fridge (kWh)": 0.1134654287936001,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 19:00:11.796134",
+    "Fridge (kWh)": 0.1462724525501351,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0819620778445187,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 19:15:11.796134",
+    "Fridge (kWh)": 0.1616746388355702,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.094066306353076,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 19:30:11.796134",
+    "Fridge (kWh)": 0.1608603760946318,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.097914998914174,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 19:45:11.796134",
+    "Fridge (kWh)": 0.1484023361904521,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0650793479223108,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 20:00:11.796134",
+    "Fridge (kWh)": 0.1529850707629461,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0474380260324123,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 20:15:11.796134",
+    "Fridge (kWh)": 0.1354497464738448,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0698856291759338,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 20:30:11.796134",
+    "Fridge (kWh)": 0.1497445267781419,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0941897773569625,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 20:45:11.796134",
+    "Fridge (kWh)": 0.1563064760581654,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0511505597647546,
+    "EV Charger (kWh)": 7.426399814068906
+  },
+  {
+    "Timestamp": "2024-12-24 21:00:11.796134",
+    "Fridge (kWh)": 0.1512610361774564,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0368644063279374,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 21:15:11.796134",
+    "Fridge (kWh)": 0.1675241326829838,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0723859341969069,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 21:30:11.796134",
+    "Fridge (kWh)": 0.1467930606956261,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0630463840215208,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 21:45:11.796134",
+    "Fridge (kWh)": 0.1797242865901338,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0214328916637842,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 22:00:11.796134",
+    "Fridge (kWh)": 0.1446035661052708,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0640906171745514,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 22:15:11.796134",
+    "Fridge (kWh)": 0.1656958341337799,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0605771159273105,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 22:30:11.796134",
+    "Fridge (kWh)": 0.1609668462552631,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0955095401900903,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 22:45:11.796134",
+    "Fridge (kWh)": 0.1208771067755958,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0888861744500821,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 23:00:11.796134",
+    "Fridge (kWh)": 0.1729725233501243,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0908376264732377,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 23:15:11.796134",
+    "Fridge (kWh)": 0.1360413031218105,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0351738252642398,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 23:30:11.796134",
+    "Fridge (kWh)": 0.1645040717112226,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0521446243191539,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-24 23:45:11.796134",
+    "Fridge (kWh)": 0.141564319681932,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0840356329269787,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 00:00:11.796134",
+    "Fridge (kWh)": 0.1197856255967279,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0556554527539748,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 00:15:11.796134",
+    "Fridge (kWh)": 0.1442414757376767,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0224093725957811,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 00:30:11.796134",
+    "Fridge (kWh)": 0.1786592407216678,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.050919817386216,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 00:45:11.796134",
+    "Fridge (kWh)": 0.1758587348754121,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0403782521858044,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 01:00:11.796134",
+    "Fridge (kWh)": 0.1514985268661443,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0984806856846467,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 01:15:11.796134",
+    "Fridge (kWh)": 0.1336540926755074,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0236602262249013,
+    "EV Charger (kWh)": 10.594720170710634
+  },
+  {
+    "Timestamp": "2024-12-25 01:30:11.796134",
+    "Fridge (kWh)": 0.1698831896504141,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0605828674036457,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 01:45:11.796134",
+    "Fridge (kWh)": 0.2000524037395522,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0549638908824935,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 02:00:11.796134",
+    "Fridge (kWh)": 0.1193022729717658,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0441227124494623,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 02:15:11.796134",
+    "Fridge (kWh)": 0.1499942957814333,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0298254157340381,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 02:30:11.796134",
+    "Fridge (kWh)": 0.1374439624731244,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0275399999285893,
+    "EV Charger (kWh)": 7.538359030126276
+  },
+  {
+    "Timestamp": "2024-12-25 02:45:11.796134",
+    "Fridge (kWh)": 0.1013369627127887,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0288796749456487,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 03:00:11.796134",
+    "Fridge (kWh)": 0.1327447072458663,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0904581363903081,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 03:15:11.796134",
+    "Fridge (kWh)": 0.1799890913082485,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0717508899001381,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 03:30:11.796134",
+    "Fridge (kWh)": 0.1727165633959561,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0477873271371404,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 03:45:11.796134",
+    "Fridge (kWh)": 0.1872425865380107,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0884876159133405,
+    "EV Charger (kWh)": 9.051332251919586
+  },
+  {
+    "Timestamp": "2024-12-25 04:00:11.796134",
+    "Fridge (kWh)": 0.130614835453201,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0436250802410256,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 04:15:11.796134",
+    "Fridge (kWh)": 0.1452952394595712,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0913610232048593,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 04:30:11.796134",
+    "Fridge (kWh)": 0.1429092446763234,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0952173564276677,
+    "EV Charger (kWh)": 9.230325960915645
+  },
+  {
+    "Timestamp": "2024-12-25 04:45:11.796134",
+    "Fridge (kWh)": 0.1720719055172195,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0718263196472157,
+    "EV Charger (kWh)": 9.195808322539664
+  },
+  {
+    "Timestamp": "2024-12-25 05:00:11.796134",
+    "Fridge (kWh)": 0.1781286836834991,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0611163611603383,
+    "EV Charger (kWh)": 9.972364637172326
+  },
+  {
+    "Timestamp": "2024-12-25 05:15:11.796134",
+    "Fridge (kWh)": 0.1366877396140514,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0262577382357018,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 05:30:11.796134",
+    "Fridge (kWh)": 0.158178907244871,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0352148713859206,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 05:45:11.796134",
+    "Fridge (kWh)": 0.1445698473323088,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0267448357663515,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 06:00:11.796134",
+    "Fridge (kWh)": 0.1509149865404302,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 06:15:11.796134",
+    "Fridge (kWh)": 0.1810653028284774,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 06:30:11.796134",
+    "Fridge (kWh)": 0.1765557944446051,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.330191910385583
+  },
+  {
+    "Timestamp": "2024-12-25 06:45:11.796134",
+    "Fridge (kWh)": 0.1618503160747532,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 07:00:11.796134",
+    "Fridge (kWh)": 0.1605388214596956,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 07:15:11.796134",
+    "Fridge (kWh)": 0.1721640415095575,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 07:30:11.796134",
+    "Fridge (kWh)": 0.1709529739414305,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 07:45:11.796134",
+    "Fridge (kWh)": 0.1397848740640961,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 08:00:11.796134",
+    "Fridge (kWh)": 0.1720044296462708,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 08:15:11.796134",
+    "Fridge (kWh)": 0.1399835295394107,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 08:30:11.796134",
+    "Fridge (kWh)": 0.1666382218532956,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 08:45:11.796134",
+    "Fridge (kWh)": 0.1319343580901499,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 09:00:11.796134",
+    "Fridge (kWh)": 0.1817392497584687,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 09:15:11.796134",
+    "Fridge (kWh)": 0.1308026461560168,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 09:30:11.796134",
+    "Fridge (kWh)": 0.1395177703794846,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 09:45:11.796134",
+    "Fridge (kWh)": 0.1467483906266138,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 10:00:11.796134",
+    "Fridge (kWh)": 0.1655203387017597,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 10:15:11.796134",
+    "Fridge (kWh)": 0.1269776764876617,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.786722413551605
+  },
+  {
+    "Timestamp": "2024-12-25 10:30:11.796134",
+    "Fridge (kWh)": 0.173615920235411,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 10:45:11.796134",
+    "Fridge (kWh)": 0.1850311902445379,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 11:00:11.796134",
+    "Fridge (kWh)": 0.1620998413683113,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.455015172761986
+  },
+  {
+    "Timestamp": "2024-12-25 11:15:11.796134",
+    "Fridge (kWh)": 0.1680466895820256,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 11:30:11.796134",
+    "Fridge (kWh)": 0.1622750547317951,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 11:45:11.796134",
+    "Fridge (kWh)": 0.135181697225227,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.515764419830475
+  },
+  {
+    "Timestamp": "2024-12-25 12:00:11.796134",
+    "Fridge (kWh)": 0.1330361496338423,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 12:15:11.796134",
+    "Fridge (kWh)": 0.1805623376830071,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.149388681629161
+  },
+  {
+    "Timestamp": "2024-12-25 12:30:11.796134",
+    "Fridge (kWh)": 0.1513930104724574,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 12:45:11.796134",
+    "Fridge (kWh)": 0.1406203948750077,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.972054861872095
+  },
+  {
+    "Timestamp": "2024-12-25 13:00:11.796134",
+    "Fridge (kWh)": 0.1540571638008522,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 13:15:11.796134",
+    "Fridge (kWh)": 0.1410499037687596,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 13:30:11.796134",
+    "Fridge (kWh)": 0.1056265338190476,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 13:45:11.796134",
+    "Fridge (kWh)": 0.1457042361315343,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 14:00:11.796134",
+    "Fridge (kWh)": 0.1655482165971377,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 14:15:11.796134",
+    "Fridge (kWh)": 0.1217047640867701,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 14:30:11.796134",
+    "Fridge (kWh)": 0.1680558867191547,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 14:45:11.796134",
+    "Fridge (kWh)": 0.1760497831406369,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 15:00:11.796134",
+    "Fridge (kWh)": 0.1509083927660154,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 15:15:11.796134",
+    "Fridge (kWh)": 0.1379733130530063,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 15:30:11.796134",
+    "Fridge (kWh)": 0.1491226537749134,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 15:45:11.796134",
+    "Fridge (kWh)": 0.158949135170533,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.935241307378611
+  },
+  {
+    "Timestamp": "2024-12-25 16:00:11.796134",
+    "Fridge (kWh)": 0.1503985784963776,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 9.57035068350974
+  },
+  {
+    "Timestamp": "2024-12-25 16:15:11.796134",
+    "Fridge (kWh)": 0.1596804455461369,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 16:30:11.796134",
+    "Fridge (kWh)": 0.1926378530353377,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.597288366088239
+  },
+  {
+    "Timestamp": "2024-12-25 16:45:11.796134",
+    "Fridge (kWh)": 0.1302726760620447,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 17:00:11.796134",
+    "Fridge (kWh)": 0.1519479712695078,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 17:15:11.796134",
+    "Fridge (kWh)": 0.1340416761278909,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 17:30:11.796134",
+    "Fridge (kWh)": 0.1553175318266199,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 17:45:11.796134",
+    "Fridge (kWh)": 0.1518430221738689,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 18:00:11.796134",
+    "Fridge (kWh)": 0.1705716510651007,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 18:15:11.796134",
+    "Fridge (kWh)": 0.1487884269519892,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 18:30:11.796134",
+    "Fridge (kWh)": 0.1568540090760617,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 18:45:11.796134",
+    "Fridge (kWh)": 0.1407035285723437,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 19:00:11.796134",
+    "Fridge (kWh)": 0.1149360096600793,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0919407441976448,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 19:15:11.796134",
+    "Fridge (kWh)": 0.1538207046725083,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0771828144479192,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 19:30:11.796134",
+    "Fridge (kWh)": 0.1391458461492043,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0490635496573932,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 19:45:11.796134",
+    "Fridge (kWh)": 0.1623927797486631,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0521041229007889,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 20:00:11.796134",
+    "Fridge (kWh)": 0.1309535334891153,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0461295335280663,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 20:15:11.796134",
+    "Fridge (kWh)": 0.1700220760104911,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0845734679757295,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 20:30:11.796134",
+    "Fridge (kWh)": 0.1268936097321233,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0542930491318123,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 20:45:11.796134",
+    "Fridge (kWh)": 0.1326208592233764,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0203470735353238,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 21:00:11.796134",
+    "Fridge (kWh)": 0.1725077282301986,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0515912976908362,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 21:15:11.796134",
+    "Fridge (kWh)": 0.1533337742627422,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0986392694171371,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 21:30:11.796134",
+    "Fridge (kWh)": 0.1372570799320969,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0802695236250742,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 21:45:11.796134",
+    "Fridge (kWh)": 0.1436605727868163,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0792980163070184,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 22:00:11.796134",
+    "Fridge (kWh)": 0.1458866542380119,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0747713895816526,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 22:15:11.796134",
+    "Fridge (kWh)": 0.1558245324088562,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0652439141715086,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 22:30:11.796134",
+    "Fridge (kWh)": 0.1678776094062022,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.057137831456466,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 22:45:11.796134",
+    "Fridge (kWh)": 0.1520261652390772,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0480841808534406,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 23:00:11.796134",
+    "Fridge (kWh)": 0.1663173132439237,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0298685622588878,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 23:15:11.796134",
+    "Fridge (kWh)": 0.1321608078062444,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0909709574334958,
+    "EV Charger (kWh)": 7.735202031835584
+  },
+  {
+    "Timestamp": "2024-12-25 23:30:11.796134",
+    "Fridge (kWh)": 0.1359718492034003,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0582763159329542,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-25 23:45:11.796134",
+    "Fridge (kWh)": 0.1282758840115652,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0712501436918576,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 00:00:11.796134",
+    "Fridge (kWh)": 0.1538651376684605,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0433112322529018,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 00:15:11.796134",
+    "Fridge (kWh)": 0.129652906179115,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.067841711937789,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 00:30:11.796134",
+    "Fridge (kWh)": 0.1501992978939293,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0918776493914193,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 00:45:11.796134",
+    "Fridge (kWh)": 0.1228331466362227,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.05296469356936,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 01:00:11.796134",
+    "Fridge (kWh)": 0.146686242117002,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0254332074806929,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 01:15:11.796134",
+    "Fridge (kWh)": 0.1330544026355324,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0768889074584669,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 01:30:11.796134",
+    "Fridge (kWh)": 0.1833926456976844,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0433064648302544,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 01:45:11.796134",
+    "Fridge (kWh)": 0.1439059623840155,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0423359565867115,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 02:00:11.796134",
+    "Fridge (kWh)": 0.1597914552886073,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0455084994250146,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 02:15:11.796134",
+    "Fridge (kWh)": 0.154598630564295,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0916943767535436,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 02:30:11.796134",
+    "Fridge (kWh)": 0.1390507014411471,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0830471058503406,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 02:45:11.796134",
+    "Fridge (kWh)": 0.1726824868888599,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0435373470670375,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 03:00:11.796134",
+    "Fridge (kWh)": 0.1698624020096472,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0344313288787826,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 03:15:11.796134",
+    "Fridge (kWh)": 0.1340038028729362,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.083907774689749,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 03:30:11.796134",
+    "Fridge (kWh)": 0.1484180188790712,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0564425235507369,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 03:45:11.796134",
+    "Fridge (kWh)": 0.1534042668283759,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0517877127928181,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 04:00:11.796134",
+    "Fridge (kWh)": 0.1670644148695446,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0861985275456215,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 04:15:11.796134",
+    "Fridge (kWh)": 0.1495230034752746,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0519364485842442,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 04:30:11.796134",
+    "Fridge (kWh)": 0.1733292803944196,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.04930338284052,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 04:45:11.796134",
+    "Fridge (kWh)": 0.1492179737003405,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0572341845111457,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 05:00:11.796134",
+    "Fridge (kWh)": 0.1545497901146415,
+    "Oven (kWh)": 2.66726427316106,
+    "Lights (kWh)": 0.093826632281388,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 05:15:11.796134",
+    "Fridge (kWh)": 0.1754913279814526,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.079028855269805,
+    "EV Charger (kWh)": 9.511149076638231
+  },
+  {
+    "Timestamp": "2024-12-26 05:30:11.796134",
+    "Fridge (kWh)": 0.1696874175858443,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0673116243944911,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 05:45:11.796134",
+    "Fridge (kWh)": 0.1319754724489516,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0329879912417291,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 06:00:11.796134",
+    "Fridge (kWh)": 0.152343287099344,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 06:15:11.796134",
+    "Fridge (kWh)": 0.1558380414358299,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 06:30:11.796134",
+    "Fridge (kWh)": 0.1470316972139138,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 06:45:11.796134",
+    "Fridge (kWh)": 0.119124469085565,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.184603653831651
+  },
+  {
+    "Timestamp": "2024-12-26 07:00:11.796134",
+    "Fridge (kWh)": 0.1486138069988249,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 07:15:11.796134",
+    "Fridge (kWh)": 0.1960948054486094,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 07:30:11.796134",
+    "Fridge (kWh)": 0.1695356026372274,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.793878881318353
+  },
+  {
+    "Timestamp": "2024-12-26 07:45:11.796134",
+    "Fridge (kWh)": 0.1641336978345082,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 08:00:11.796134",
+    "Fridge (kWh)": 0.1691271104828022,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.670189777434455
+  },
+  {
+    "Timestamp": "2024-12-26 08:15:11.796134",
+    "Fridge (kWh)": 0.0967216389929582,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 08:30:11.796134",
+    "Fridge (kWh)": 0.1762942206509856,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 08:45:11.796134",
+    "Fridge (kWh)": 0.1524026046841496,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 09:00:11.796134",
+    "Fridge (kWh)": 0.1557623339606555,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 09:15:11.796134",
+    "Fridge (kWh)": 0.1365974259097034,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 09:30:11.796134",
+    "Fridge (kWh)": 0.1649158422438925,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.822025816189516
+  },
+  {
+    "Timestamp": "2024-12-26 09:45:11.796134",
+    "Fridge (kWh)": 0.1589310781351359,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 10:00:11.796134",
+    "Fridge (kWh)": 0.142645467479775,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 10:15:11.796134",
+    "Fridge (kWh)": 0.1616622814297165,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 10:30:11.796134",
+    "Fridge (kWh)": 0.1502186217193444,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 10:45:11.796134",
+    "Fridge (kWh)": 0.1542921088096796,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 8.49131132399547
+  },
+  {
+    "Timestamp": "2024-12-26 11:00:11.796134",
+    "Fridge (kWh)": 0.1505403104828636,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 11:15:11.796134",
+    "Fridge (kWh)": 0.1599594398650923,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 10.456572840529889
+  },
+  {
+    "Timestamp": "2024-12-26 11:30:11.796134",
+    "Fridge (kWh)": 0.1570003965064323,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 0.0
+  },
+  {
+    "Timestamp": "2024-12-26 11:45:11.796134",
+    "Fridge (kWh)": 0.1652127702216413,
+    "Oven (kWh)": 0.0,
+    "Lights (kWh)": 0.0,
+    "EV Charger (kWh)": 7.997258795160102
+  }
+]
